@@ -1,0 +1,36 @@
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.deps.json
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.pdb
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.csproj.AssemblyReference.cache
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.AssemblyInfoInputs.cache
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.AssemblyInfo.cs
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.csproj.CoreCompileInputs.cache
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\refint\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.pdb
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34\UniversityMenu.Tools\obj\Debug\net7.0\ref\UniversityMenu.Tools.dll
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.deps.json
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.dll
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.pdb
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.csproj.AssemblyReference.cache
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.AssemblyInfoInputs.cache
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.AssemblyInfo.cs
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.csproj.CoreCompileInputs.cache
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.dll
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\refint\UniversityMenu.Tools.dll
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.pdb
+C:\Users\DarkHawk\Desktop\Training.UniversityMenu-master\Training.UniversityMenu-master\UniversityMenu.Tools\obj\Debug\net7.0\ref\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.deps.json
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\bin\Debug\net7.0\UniversityMenu.Tools.pdb
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.csproj.AssemblyReference.cache
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.AssemblyInfoInputs.cache
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.AssemblyInfo.cs
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.csproj.CoreCompileInputs.cache
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\refint\UniversityMenu.Tools.dll
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\UniversityMenu.Tools.pdb
+F:\My Folder\Educational\Develop\CS 2022-2023\CS Exercises\Session34-35\UniversityMenu.Tools\obj\Debug\net7.0\ref\UniversityMenu.Tools.dll
