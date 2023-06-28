@@ -34,7 +34,9 @@ while(true)
                 student.Read();
                 using(var db=new UniversityMenuDB())
                 {
-                    db.Students.Add(student);
+                    db
+                        .Students
+                        .Add(student);
                     db.SaveChanges();
                     Console.WriteLine("OK!");
                 }
@@ -45,7 +47,9 @@ while(true)
                 var id=int.Parse(Console.ReadLine());
                 using(var db=new UniversityMenuDB())
                 {
-                    var student=db.Students.FirstOrDefault(s=>s.Id==id);
+                    var student=db
+                                    .Students
+                                    .FirstOrDefault(s=>s.Id==id);
                     if(student==null)
                     {
                         Console.WriteLine("Not found!");
@@ -65,7 +69,9 @@ while(true)
                 var id=int.Parse(Console.ReadLine());
                 using(var db=new UniversityMenuDB())
                     {
-                        var student=db.Students.FirstOrDefault(s=>s.Id==id);
+                        var student=db
+                                        .Students
+                                        .FirstOrDefault(s=>s.Id==id);
                         if(student==null)
                         {
                             Console.WriteLine("Not found!");
@@ -83,14 +89,21 @@ while(true)
             {
                 using(var db=new UniversityMenuDB())
                 {
-                    db.Students.ToList().ForEach(s=>Console.WriteLine(s));
+                    db
+                        .Students
+                        .ToList()
+                        .ForEach(s=>Console.WriteLine(s));
                 }
             }
             if(s==5)
             {
                 using(var db=new UniversityMenuDB())
                 {
-                    db.Students.OrderByDescending(s=>s.Average).ToList().ForEach(s=>Console.WriteLine(s));
+                    db
+                        .Students
+                        .OrderByDescending(s=>s.Average)
+                        .ToList()
+                        .ForEach(s=>Console.WriteLine(s));
                 }
             }
         }
@@ -111,7 +124,9 @@ while(true)
                 professor.Read();
                 using(var db=new UniversityMenuDB())
                 {
-                    db.Professors.Add(professor);
+                    db
+                        .Professors
+                        .Add(professor);
                     db.SaveChanges();
                     Console.WriteLine("OK!");
                 }
@@ -122,7 +137,9 @@ while(true)
                 var id=int.Parse(Console.ReadLine());
                 using(var db=new UniversityMenuDB())
                 {
-                    var professor=db.Professors.FirstOrDefault(s=>s.Id==id);
+                    var professor=db
+                                        .Professors
+                                        .FirstOrDefault(s=>s.Id==id);
                     if(professor==null)
                     {
                         Console.WriteLine("Not found!");
@@ -142,7 +159,9 @@ while(true)
                 var id=int.Parse(Console.ReadLine());
                 using(var db=new UniversityMenuDB())
                     {
-                        var professor=db.Professors.FirstOrDefault(s=>s.Id==id);
+                        var professor=db
+                                            .Professors
+                                            .FirstOrDefault(s=>s.Id==id);
                         if(professor==null)
                         {
                             Console.WriteLine("Not found!");
@@ -160,7 +179,10 @@ while(true)
             {
                 using(var db=new UniversityMenuDB())
                 {
-                    db.Professors.ToList().ForEach(s=>Console.WriteLine(s));
+                    db
+                        .Professors
+                        .ToList()
+                        .ForEach(s=>Console.WriteLine(s));
                 }
             }
             if(p==5)
@@ -169,7 +191,11 @@ while(true)
                 {
                     Console.Write("Insert name of field: ");
                     var field=Console.ReadLine();
-                    db.Professors.Where(s=>s.Field==field).ToList().ForEach(s=>Console.WriteLine(s));
+                    db
+                        .Professors
+                        .Where(s=>s.Field==field)
+                        .ToList()
+                        .ForEach(s=>Console.WriteLine(s));
                 }
             }
         }
